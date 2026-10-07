@@ -40,9 +40,4 @@ Each book record contains:
 - Author Name
 - Book Status
 
-## ⚙️ How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone <your-repository-link>
+GitHub link : https://github.com/Aditirathore01/library-management-system
