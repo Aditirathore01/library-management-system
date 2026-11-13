@@ -40,4 +40,16 @@ Each book record contains:
 - Author Name
 - Book Status
 
+▶️ How to Run
+
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Compile the source file:
+   
+gcc library.c -o library
+
+4. Run the executable:
+   
+.\library.exe
+
 GitHub link : https://github.com/Aditirathore01/library-management-system
